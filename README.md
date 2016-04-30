@@ -1,2 +1,5 @@
 # hello-world
-a new repository
+
+Here I am!
+
+This is my first step in this app!
